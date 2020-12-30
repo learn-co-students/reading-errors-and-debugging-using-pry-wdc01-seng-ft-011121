@@ -1,4 +1,4 @@
-# Debugging with Pry
+ruby spec/pry_debugging_spec.rb# Debugging with Pry
 
 ## Overview
 
